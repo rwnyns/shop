@@ -1,6 +1,6 @@
 <?php
-    $servername = "webserverrwn.database.windows.net";
-    $username = "rwn";
+    $servername = "shopappp-server.mysql.database.azure.com";
+    $username = "thlmplvgcj";
     $password = "root123456789.";
     $dbname = "rwndb";
     
